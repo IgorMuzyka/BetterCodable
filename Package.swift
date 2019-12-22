@@ -26,6 +26,6 @@ let package = Package(
             dependencies: ["BetterCodable"]),
     ],
     swiftLanguageVersions: [
-        .version("5.1")
+        .version("5")
     ]
 )
